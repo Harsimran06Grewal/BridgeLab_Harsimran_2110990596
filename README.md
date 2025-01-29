@@ -14,4 +14,7 @@ Date:- 29-01-2025
 Topics Covered:-
 a:-
 b:-
-c:-
+c:-practice questions
+   :-remove duplicates from array
+   :-frequency of each element in array
+   :-union of arrays
