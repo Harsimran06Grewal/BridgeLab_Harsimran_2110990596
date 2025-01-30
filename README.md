@@ -34,4 +34,6 @@ a:-practice questions
    :-pangram string
    :-anagram string
    :-count of vowels in string
+   :-two strings concate without using + and concate()
+   :-count occurance of word started with given character
    
